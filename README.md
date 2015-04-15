@@ -13,5 +13,5 @@ slide-queue-demo
 ####Control:
 + Change Interval: Left or Right Arrow Keys
 
-####Gameplay:
+####Gameplay (Youtube):
 [![Slide-Queue-Demo](http://img.youtube.com/vi/-ujT0jInoYs/0.jpg)](https://www.youtube.com/watch?v=-ujT0jInoYs)
